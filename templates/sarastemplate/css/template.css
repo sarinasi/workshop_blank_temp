@@ -35,3 +35,15 @@ html {overflow-y:scroll;}
   
 }
 
+.navbar-inner .row {
+	margin:0;
+}
+
+ul.menu {
+	padding:20px 0;
+	}
+
+
+
+
+
